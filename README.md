@@ -1,1 +1,2 @@
 # burger
+Eat-Da-Burger! is an app that lets users create burgers and eat them! If a user regrets the choice of eating a burger, they can turn back the time and "un-eat" a burger. The app utilizes ORM to manipulate a MySQL database that defines burgers.
